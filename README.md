@@ -39,7 +39,7 @@ print(Norm_of_matrix)
 
 
 
-# Infinity Norm of a Matrix
+# 3-Infinity Norm of a Matrix
 
 ```
 import numpy as np
